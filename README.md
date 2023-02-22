@@ -51,9 +51,11 @@ NEAR Bounties Telegram Channel [https://t.me/NearBounties](https://t.me/NearBoun
 
 ## :rocket: DAO Acceleration
 
-DAOCubator (not active)
+DAOCubator (not active) [https://www.daocubator.org/](https://www.daocubator.org/)
 
-DAO Builder Group https://nearbuilders.com/tg-dao&#x20;
+DAO Builder Group [https://nearbuilders.com/tg-dao](https://nearbuilders.com/tg-dao)
+
+NDC Startup DAO Group&#x20;
 
 
 
