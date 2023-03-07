@@ -2,151 +2,56 @@
 description: There is so many ways to build on NEAR, where to start
 ---
 
-# 🛠 Developer Onboarding
+# 👋 Developer Onboarding
 
-**NEAR Development Resources** There are many places to find information about developing smart contracts and applications on NEAR Protocol. This document will highlight the most important resources starting with a high level architectural overview of NEAR application development.
+&#x20;There are many places to find information about developing smart contracts and applications on NEAR Protocol. These docs will highlight the most important resources starting with a high level architectural overview of NEAR application development, developing with different languages, developer support, developer communities, integrations, videos to learn async, and existing developer funding avenues.
 
-## **Why NEAR?**
+{% content-ref url="developer-onboarding/why-near.md" %}
+[why-near.md](developer-onboarding/why-near.md)
+{% endcontent-ref %}
 
-Since inception NEAR has been touted for its technical excellence, unique approach to scalability unlike any other chain, and superior account model leading to some of the best user onboarding experiences. As NEAR is moving into its 3rd year since mainnet, there are over 1000 verified applications across the 3 major categories of crypto: DAOs, DeFi and NFTs. In addition to applications, NEAR has a number of infrastructure projects addressing the growing ecosystem needs in areas such as: private shards and compute ([https://www.calimero.network/](https://www.calimero.network/)), storage ([https://www.onmachina.io/](https://www.onmachina.io/)), wallet interoperability ([https://github.com/near/wallet-selector/](https://github.com/near/wallet-selector/)), core protocol governance ([https://mobile.twitter.com/neardc](https://mobile.twitter.com/neardc)), and more ([https://near.org/](https://near.org/))
+{% content-ref url="developer-onboarding/near-application-architecture.md" %}
+[near-application-architecture.md](developer-onboarding/near-application-architecture.md)
+{% endcontent-ref %}
 
-## Dev Resources
+{% content-ref url="developer-onboarding/dev-resources.md" %}
+[dev-resources.md](developer-onboarding/dev-resources.md)
+{% endcontent-ref %}
 
-****[**nomicon.io** ](https://nomicon.io/)
+{% content-ref url="developer-onboarding/resources-by-language.md" %}
+[resources-by-language.md](developer-onboarding/resources-by-language.md)
+{% endcontent-ref %}
 
-Low level protocol documentation. If you are a blockchain engineer interested in contributing to the core protocol, this is your source of truth (e.g. nomicon explains how NEAR implements Merkle Proofs). Also enumerates NEPs and their specifications. I think Pagoda's protocol team has ownership of this.
+{% content-ref url="developer-onboarding/join-a-builder-group.md" %}
+[join-a-builder-group.md](developer-onboarding/join-a-builder-group.md)
+{% endcontent-ref %}
 
+{% content-ref url="developer-onboarding/developer-governance.md" %}
+[developer-governance.md](developer-onboarding/developer-governance.md)
+{% endcontent-ref %}
 
+{% content-ref url="developer-onboarding/integrating-near-into-your-application.md" %}
+[integrating-near-into-your-application.md](developer-onboarding/integrating-near-into-your-application.md)
+{% endcontent-ref %}
 
-****[**docs.near.org**](https://docs.near.org/)****
+{% content-ref url="developer-onboarding/videos.md" %}
+[videos.md](developer-onboarding/videos.md)
+{% endcontent-ref %}
 
-Developer documentation. If you are a web2 or web3 dev interested in learning what NEAR is, and how to implement a dApp, this is your page
+{% content-ref url="developer-onboarding/24-7-support.md" %}
+[24-7-support.md](developer-onboarding/24-7-support.md)
+{% endcontent-ref %}
 
-Doesn't mention NEPs, but how to implement it (e.g. FT, NFT, and how to make a marketplace).&#x20;
+{% content-ref url="developer-onboarding/blockchain-operating-system-bos.md" %}
+[blockchain-operating-system-bos.md](developer-onboarding/blockchain-operating-system-bos.md)
+{% endcontent-ref %}
 
-Pagoda's DevRel is DRI
-
-\
-
-
-****[**wiki.near.org**  ](https://wiki.near.org/)
-
-Information about everything the protocol has to offer including usage, infrastructure, opportunities, and guilds".&#x20;
-
-Near Foundation is DRI
-
-\
-
-
-****[**https://near.academy/**](https://near.academy/)****
-
-&#x20; **(**maybe defunct) Interactive NEAR Development course
-
-
-
-****[**https://github.com/near**](https://github.com/near) ****&#x20;
-
-
-
-{% embed url="https://github.com/NEAR" %}
-
-\
+{% content-ref url="developer-onboarding/evm-development.md" %}
+[evm-development.md](developer-onboarding/evm-development.md)
+{% endcontent-ref %}
 
 
-
-
-{% embed url="https://near.social/#/mob.near/widget/MyPage?accountId=hack.near" %}
-
-
-
-## Resources by Languages
-
-### Rust
-
-Building complex applications on the NEAR protocol, Rust is a must.&#x20;
-
-### Javascript
-
-Calling Contracts
-
-JS SDK
-
-Front Ends with BOS
-
-
-
-### Python
-
-py-on-near
-
-py-near
-
-
-
-## :point\_right:Join A Builder Group
 
 {% hint style="info" %}
-A Builder Group is a veritical specific group of engineers, advancing the NEAR ecosystem by building open source tooling and pushing protocol standards.&#x20;
+Special thanks to the Contributors that made these onboarding docs possible. Matt from Proximity, Shot from Banyan, Marcus from NF, just to name a few
 {% endhint %}
-
-To join a builder group go to [https://www.nearbuilders.com/](https://www.nearbuilders.com/)&#x20;
-
-Videos for Banyan Led Builder Calls can be found at [nearbuilders.com/builder-videos](http://nearbuilders.com/builder-videos)
-
-
-
-## :video\_camera:Videos
-
-#### NEAR Workshops
-
-Watch all past workshops here&#x20;
-
-{% embed url="https://www.youtube.com/watch?list=PLfhNHA8XzVu47dMbIk83W0WE5Krn3uhyG&v=LvThS2LXoL4" %}
-
-#### Whiteboard Series
-
-[https://www.youtube.com/watch?v=5bLwPQZw9Jk\&list=PL9tzQn\_TEuFWweVbfTbaedFdwVrvaYPq4](https://www.youtube.com/watch?v=5bLwPQZw9Jk\&list=PL9tzQn\_TEuFWweVbfTbaedFdwVrvaYPq4)
-
-#### Contract Reviews
-
-
-
-#### NEAR Bytes
-
-
-
-
-
-
-
-## :handshake: Integrating NEAR into Your Application
-
-Many projects coming into the ecosystem are wondering what a NEAR integration looks like. At NEAR we encourage both apps to build native decentralized web applications, but we also have infrastructure that makes it extremely easy to transition Web2 or Web "2.5" applications into Web3 tech.
-
-#### Sign in with NEAR
-
-* NEAR Wallet Selector [https://github.com/near/wallet-selector](https://github.com/near/wallet-selector)&#x20;
-
-#### NFT Reputation
-
-* Soul Bound NFT [https://github.com/near/NEPs/pull/393](https://github.com/near/NEPs/pull/393)&#x20;
-  * For token gating access
-* Dynamic NFT
-
-#### DAO
-
-* Establishing a DAO Treasury
-
-#### Pay with NEAR
-
-* Add the ability for people to pay with NEAR directly. Ex; tipping, donating, etc
-* Example code;
-
-#### Bootstrapping With BOS
-
-#### Integration Partners
-
-NEAR has companies that can help accelerate your integration. Additionally NEAR Foundation has Dev Shop parters.&#x20;
-
-
-
