@@ -4,6 +4,12 @@ description: There is so many ways to build on NEAR, where to start
 
 # 🛠 Developer Onboarding
 
+**NEAR Development Resources** There are many places to find information about developing smart contracts and applications on NEAR Protocol. This document will highlight the most important resources starting with a high level architectural overview of NEAR application development.
+
+## **Why NEAR?**
+
+Since inception NEAR has been touted for its technical excellence, unique approach to scalability unlike any other chain, and superior account model leading to some of the best user onboarding experiences. As NEAR is moving into its 3rd year since mainnet, there are over 1000 verified applications across the 3 major categories of crypto: DAOs, DeFi and NFTs. In addition to applications, NEAR has a number of infrastructure projects addressing the growing ecosystem needs in areas such as: private shards and compute ([https://www.calimero.network/](https://www.calimero.network/)), storage ([https://www.onmachina.io/](https://www.onmachina.io/)), wallet interoperability ([https://github.com/near/wallet-selector/](https://github.com/near/wallet-selector/)), core protocol governance ([https://mobile.twitter.com/neardc](https://mobile.twitter.com/neardc)), and more ([https://near.org/](https://near.org/))
+
 ## Dev Resources
 
 ****[**nomicon.io** ](https://nomicon.io/)
