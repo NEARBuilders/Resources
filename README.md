@@ -50,7 +50,9 @@ description: There is so many ways to build on NEAR, where to start
 [evm-development.md](developer-onboarding/evm-development.md)
 {% endcontent-ref %}
 
-
+{% content-ref url="developer-onboarding/interoperability-infrastructure.md" %}
+[interoperability-infrastructure.md](developer-onboarding/interoperability-infrastructure.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Special thanks to the Contributors that made these onboarding docs possible. Matt from Proximity, Shot from Banyan, Marcus from NF, just to name a few
