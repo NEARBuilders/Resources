@@ -12,5 +12,6 @@
   * [📞 24/7 Support](developer-onboarding/24-7-support.md)
   * [💎 EVM Development](developer-onboarding/evm-development.md)
   * [💪 Blockchain Operating System (BOS)](developer-onboarding/blockchain-operating-system-bos.md)
+  * [⛓ Interoperability / Infrastructure](developer-onboarding/interoperability-infrastructure.md)
 * [🏛 DAO Resources](<README (1).md>)
 * [🌍 NF Regional Hubs](nf-regional-hubs.md)
