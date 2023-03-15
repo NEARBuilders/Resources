@@ -12,6 +12,20 @@ Many projects coming into the ecosystem are wondering what a NEAR integration lo
 
 * NEAR Wallet Selector [https://github.com/near/wallet-selector](https://github.com/near/wallet-selector)&#x20;
 
+## Onboarding
+
+With Keypom you can onboard users directly to use your application in a frictionless way to named accounts. Deploy your own Rust contracts or work directly with the easy-to-use TypeScript SDK
+
+[https://docs.keypom.xyz/](https://docs.keypom.xyz/)
+
+* Integration into Fiat Gateways
+* Trial Accounts
+* Onboarding to a DAO
+* Funding to For Interacting with Contracts
+* Get Refunded the Transaction Cost&#x20;
+
+
+
 ## NFT Reputation
 
 * Soul Bound NFT [https://github.com/near/NEPs/pull/393](https://github.com/near/NEPs/pull/393)&#x20;
