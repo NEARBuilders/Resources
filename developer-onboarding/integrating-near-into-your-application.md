@@ -26,6 +26,12 @@ With Keypom you can onboard users directly to use your application in a friction
 
 
 
+## Swaps
+
+Say you need to swap from one funible token like USDC into another funible token in order to facilaite things like in-game currencies, DeFi, etc. On the backend you can integrate Refv2 (Ref.finance is NEAR's leading AMM).
+
+{% embed url="https://github.com/ref-finance/ref-sdk" %}
+
 ## NFT Reputation
 
 * Soul Bound NFT [https://github.com/near/NEPs/pull/393](https://github.com/near/NEPs/pull/393)&#x20;
@@ -35,8 +41,6 @@ With Keypom you can onboard users directly to use your application in a friction
 
 * Dynamic NFT
   * FewNFar API enables dynamic NFTs, whitelisting, and so much more. Also has the capacity to support projects as an enterprise level Launchpad
-
-
 
 ## DAO
 
@@ -60,13 +64,38 @@ Build your own public EVM chain on the Aurora Shard on NEAR with Aurora Cloud Si
 
 ## Private Enterprise Blockchain with Calimero
 
+Want to leverage the infrastructure of NEAR without exposing your network to the public blockchain. Well with Calimero Network you can deploy you favorite NEAR dApps, and all your business functions on a private shard and easily deploy to NEAR mainnet if needed.&#x20;
+
 [https://www.calimero.network/](https://www.calimero.network/)&#x20;
 
 ## Bootstrapping With BOS
 
-* Leverage the thousands of decentralized front end components to quickstart your application by composing widgets directly on a bOS gateway&#x20;
+* Leverage the thousands of decentralized front end components to quick-start your application by composing widgets directly on a bOS gateway&#x20;
 * Or build your own viewer with your own dependencies for a customized dApp feeling, leveraging the hundreds of developers on NEAR.&#x20;
-* Integration the SocialDB into your application by pulling wallet information for follwoers, post, completed profiles, and all data owned by users on the BOS. For more information on how to build on bos go to [https://nearbuilders.com/bos](https://nearbuilders.com/bos)
+* Integration the SocialDB into your application by pulling wallet information for followers, post, completed profiles, and all data owned by users on the BOS. For more information on how to build on bos go to [https://nearbuilders.com/bos](https://nearbuilders.com/bos)
+
+##
+
+
+
+## Onramps (WIP - still updating)
+
+Onramps allow users to go from fiat to native NEAR on the NEAR blockchain to start getting transaction fees to interfacting with the chains.
+
+{% hint style="info" %}
+Onramps that NEAR Supports. It is important to note based on different geographical restrictions, their are different KYC requirements.&#x20;
+{% endhint %}
+
+
+
+* Onramper
+* Meld
+* Moonpay
+* Transak
+
+
+
+
 
 ## Integration Partners
 
