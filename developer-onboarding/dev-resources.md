@@ -17,22 +17,35 @@ Pagoda's DevRel is DRI
 \
 
 
-****[**wiki.near.org**  ](https://wiki.near.org/)
+****[**wiki.near.org**](https://wiki.near.org/)
+
+{% embed url="https://wiki.near.org" %}
 
 Information about everything the protocol has to offer including usage, infrastructure, opportunities, and guilds".&#x20;
 
-Near Foundation is DRI
-
-
+Near Foundation is DRI, make a PR to this knowledge base here [https://github.com/near/wiki](https://github.com/near/wiki)
 
 ****[**https://github.com/near**](https://github.com/near) ****&#x20;
 
-[https://near.social/#/mob.near/widget/MyPage?accountId=hack.near](https://near.social/#/mob.near/widget/MyPage?accountId=hack.near)\
+{% embed url="https://github.com/near" %}
 
+Official NEAR Github home of near-core, NEPs, NEAR RS SDK, NEAR JS SDK, wiki, and so much more.&#x20;
+
+[https://near.social/#/mob.near/widget/MyPage?accountId=hack.near](https://near.social/#/mob.near/widget/MyPage?accountId=hack.near)
+
+{% embed url="https://near.social/#/mob.near/widget/MyPage?accountId=hack.near" %}
 
 ****[**https://near.academy/**](https://near.academy/)****
 
-&#x20; **(**maybe defunct) Interactive NEAR Development course
+Interactive NEAR Development course
+
+
+
+[https://nearprimer.com/](https://nearprimer.com/)
+
+{% embed url="https://nearprimer.com/" %}
+
+Gamified learning materials on NEAR
 
 
 

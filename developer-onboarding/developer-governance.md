@@ -9,3 +9,7 @@ description: >-
 Learn more at [https://neardevgov.org/](https://neardevgov.org/)&#x20;
 
 To apply to get your open source good built on NEAR, apply at [devgovgigs.near.social ](https://devgovgigs.near.social/)with the "funding-requested" tag with a comprehensive proposal.&#x20;
+
+
+
+Read the funding guide here [https://nearbuilders.com/funding](https://nearbuilders.com/funding)
