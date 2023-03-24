@@ -30,8 +30,8 @@ description: There is so many ways to build on NEAR, where to start
 [developer-governance.md](developer-onboarding/developer-governance.md)
 {% endcontent-ref %}
 
-{% content-ref url="developer-onboarding/integrating-near-into-your-application.md" %}
-[integrating-near-into-your-application.md](developer-onboarding/integrating-near-into-your-application.md)
+{% content-ref url="developer-onboarding/integrating-near-into-your-application/" %}
+[integrating-near-into-your-application](developer-onboarding/integrating-near-into-your-application/)
 {% endcontent-ref %}
 
 {% content-ref url="developer-onboarding/videos.md" %}

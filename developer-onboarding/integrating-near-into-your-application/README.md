@@ -78,20 +78,17 @@ Want to leverage the infrastructure of NEAR without exposing your network to the
 
 
 
-## Onramps (WIP - still updating)
+## Onramps
 
-Onramps allow users to go from fiat to native NEAR on the NEAR blockchain to start getting transaction fees to interfacting with the chains.
+Onramps allow users to go from fiat to native NEAR on the NEAR blockchain to start getting transaction fees to interacting with the chain.
 
-{% hint style="info" %}
-Onramps that NEAR Supports. It is important to note based on different geographical restrictions, their are different KYC requirements.&#x20;
-{% endhint %}
+See all the NEAR Onramps Offerings Here
+
+{% content-ref url="onramps.md" %}
+[onramps.md](onramps.md)
+{% endcontent-ref %}
 
 
-
-* Onramper
-* Meld
-* Moonpay
-* Transak
 
 
 
